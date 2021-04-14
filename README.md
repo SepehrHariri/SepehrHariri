@@ -3,7 +3,9 @@
   Hi there 👋, I'm Sepehr Hariri!
   <br>
 </h1>
-
+<h3 align="center">
+  I'm a Front-End and Back-End Software Engineer by passion.
+ </h3>
 <!--
 ### Hi there 👋
 **SepehrHariri/SepehrHariri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
