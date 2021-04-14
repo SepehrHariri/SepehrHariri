@@ -6,6 +6,8 @@
 <h3 align="center">
   I'm a Front-End and Back-End Software Engineer by passion.
  </h3>
+ - 🔭 I’m currently working multiple projects using Laravel, JavaScript.
+
 <!--
 ### Hi there 👋
 **SepehrHariri/SepehrHariri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
