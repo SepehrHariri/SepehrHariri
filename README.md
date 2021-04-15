@@ -1,5 +1,4 @@
 <h1 align="center">
-<br>
   Hi there 👋, I'm Sepehr Hariri!
   <br>
 </h1>
