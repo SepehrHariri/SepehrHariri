@@ -7,13 +7,13 @@
  </h3>
  - 🔭 I’m currently working multiple projects using Laravel, PHP, JavaScript.
 
-## 🤔 ABOUT ME?
+## ABOUT ME?
 
 _Mainly build web applications as a web developer. Built applications with PHP and MySQL, Laravel, HTML5, CSS3, JavaScript and AJAX. Apart from web, have Git experience. Also working as a freelancer so you're welcome to contact to hire. The crazy thing is I also do programming in my free time._
 
 <br />
 
-### 👯 Languages and Tools
+### Skills / Languages
 
 ---
 
