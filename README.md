@@ -25,5 +25,6 @@ _Mainly build web applications as a web developer. Built applications with PHP a
 <img align="left" alt="react" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>  
 
 <br />
+<br />
 
 Thank you for reading this.
