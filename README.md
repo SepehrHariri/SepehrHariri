@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there 👋, I'm Sepehr Hariri!
 </h1>
-<br>
+
 <h3 align="center">
   I'm a Web Software Engineering.
  </h3>
