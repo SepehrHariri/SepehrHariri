@@ -11,8 +11,6 @@
 
 _Mainly build web applications as a web developer. Built applications with PHP and MySQL, Laravel, HTML5, CSS3, JavaScript and AJAX. Apart from web, have Git experience. Also working as a freelancer so you're welcome to contact to hire. The crazy thing is I also do programming in my free time._
 
-<br />
-
 ## Skills / Languages
 
 <img align="left" alt="Docker" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
