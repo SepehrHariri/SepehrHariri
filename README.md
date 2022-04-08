@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I'm a Web Software Engineering.
+  I'm a Developer.
  </h3>
  - 🔭 I’m currently working multiple projects using Laravel, PHP, JavaScript.
 
@@ -16,7 +16,6 @@ _Mainly build web applications as a web developer. Built applications with PHP a
 <img align="left" alt="Docker" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="SQL" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Visual Studio Code" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="git" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="git" width="40" height="40"/>
