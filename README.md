@@ -16,7 +16,7 @@ _Mainly build web applications as a web developer. Built applications with PHP a
 <img align="left" alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="react" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>  
 <img align="left" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="git" width="40" height="40"/>
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
 <img align="left" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="git" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="git" width="40" height="40"/>
 <img align="left" alt="SQL" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
