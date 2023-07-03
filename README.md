@@ -1,6 +1,5 @@
-<h1 align="center">
-  Hi there 👋, I'm Sepehr Hariri!
-</h1>
+<p align="center">Hi there 👋, I'm</p>
+<h1 align="center"> Sepehr Hariri</h1>
 
 <h3 align="center">
   I'm a Web Developer.
