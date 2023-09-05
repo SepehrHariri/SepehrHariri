@@ -5,9 +5,9 @@
   I'm a Web Developer.
  </h3>
 
-## ABOUT ME?
+After a couple of years working as a frontend developer, I started my job as a backend developer two years ago. I have professionally developed various systems with Laravel. Working as frontend developer in different companies and working as a freelance developer have given me priceless experience in HTML, CSS, JS, jQuery, Bootstrap, ReactJS, and different plugins of jQuery. I started my backend profession with Laravel 6. As Laravel reached to its 6.7 update, I augmented my abilities respectively. I have also developed my skills in server configuration and MySQL.
 
-_Mainly build web applications as a web developer. Built applications with PHP and MySQL, Laravel, HTML5, CSS3, JavaScript and AJAX. Apart from web, have Git experience. Also working as a freelancer so you're welcome to contact to hire. The crazy thing is I also do programming in my free time._
+Ridesharing apps, central warehouse management, online laundry apps, online clothes store, and personnel management system were some of the projects which I developed their backend, frontend, and dashboard. Standard, developable, and intelligible coding have always been my priorities. I have always done my best to develop flawless web applications.
 
 ## Skills / Languages
 
