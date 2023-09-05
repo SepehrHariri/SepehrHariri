@@ -4,7 +4,6 @@
 <h3 align="center">
   I'm a Web Developer.
  </h3>
- - 🔭 I’m currently working multiple projects using Laravel, PHP, JavaScript.
 
 ## ABOUT ME?
 
