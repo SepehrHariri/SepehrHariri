@@ -22,7 +22,5 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/>
 
-<br />
-<hr />
 
-Thank you for reading this.
+
