@@ -15,7 +15,6 @@ I'm a Frontend developer based in Istanbul. I'm passionate about coding and love
 
 In my free time, I enjoy:
 
-- 🎿 Skiing on the slopes.
 - 💪 Bodybuilding and staying fit at the gym.
 - 🧘 Meditating to maintain a balanced mindset.
 - 📚 Reading books to expand my knowledge.
