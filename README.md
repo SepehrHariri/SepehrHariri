@@ -1,23 +1,27 @@
-<h3 align="center">Hi there 👋, I'm</h3>
-<h1 align="center"> Sepehr Hariri</h1>
-<h3 align="center">I'm a Web Developer.</h3>
+### Hi there, I'm Sepehr 👋
 
+I'm a Frontend developer based in Istanbul. I'm passionate about coding and love working with various web technologies. Here are some things you should know about me:
 
+- 🔭 I work with TypeScript, React, NextJS, Webpack ...
+- 🌱 I'm constantly learning and improving my skills in web development.
+- 💼 I work remotely and always strive to deliver high-quality code and user experiences.
 
-## Skills / Languages
+### What I Do
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40" />  
-<img align="left" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40px" />
-<img align="left" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="40" />
-<img align="left" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" />
-<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/>
+- 💻 I create web applications with a focus on user experience and performance.
+- 🌐 I maintain a website called [sepehrhariri](sepehrhariri.github.io), where you can find resources and articles related to React development.
 
+### Hobbies and Interests
 
+In my free time, I enjoy:
 
+- 🎿 Skiing on the slopes.
+- 💪 Bodybuilding and staying fit at the gym.
+- 🧘 Meditating to maintain a balanced mindset.
+- 📚 Reading books to expand my knowledge.
+
+### Get in Touch
+
+Feel free to contact me if you have questions, want to collaborate, or chat about web development.
+
+* [Telegram](https://t.me/)
