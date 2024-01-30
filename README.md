@@ -23,4 +23,4 @@ In my free time, I enjoy:
 
 Feel free to contact me if you have questions, want to collaborate, or chat about web development.
 
-* [Telegram](https://t.me/)
+* [Telegram](https://t.me/Sepehr_hariri)
