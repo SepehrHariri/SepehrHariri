@@ -9,7 +9,7 @@ I'm a Frontend developer based in Istanbul. I'm passionate about coding and love
 ### What I Do
 
 - 💻 I create web applications with a focus on user experience and performance.
-- 🌐 I maintain a website called [sepehrhariri](sepehrhariri.github.io), where you can find resources and articles related to React development.
+- 🌐 I maintain a website called [sepehrhariri](https://sepehrhariri.github.io/), where you can find resources and articles related to React development.
 
 ### Hobbies and Interests
 
