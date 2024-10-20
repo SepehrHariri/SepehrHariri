@@ -10,11 +10,11 @@ Ridesharing apps, central warehouse management, online laundry apps, online clot
 
 <a href="https://git.io/streak-stats"><img height=200 align="center" src="https://streak-stats.demolab.com?user=SepehrHariri" alt="GitHub Streak" /></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SepehrHariri&show=prs_merged,prs_merged_percentage&show_icons=true&hide=contribs,issues" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SepehrHariri&show=prs_merged,prs_merged_percentage,reviews&show_icons=true&hide=contribs,issues&rank_icon=percentile" /></a>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrHariri&langs_count=20&layout=compact&hide=html" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrHariri&langs_count=20&hide=html&layout=compact" />
 </a>
 
 
