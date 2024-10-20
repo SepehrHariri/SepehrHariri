@@ -14,7 +14,7 @@ Ridesharing apps, central warehouse management, online laundry apps, online clot
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrHariri&langs_count=20&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrHariri&langs_count=20&layout=compact&hide=html" />
 </a>
 
 
