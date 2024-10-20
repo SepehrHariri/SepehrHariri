@@ -7,13 +7,14 @@ Specialized in designing databases and writing efficient SQL queries, enabling s
 
 Ridesharing apps, central warehouse management, online laundry apps, online clothes store, and personnel management system were some of the projects which I developed their backend, frontend, and dashboard. Standard, developable, and intelligible coding have always been my priorities. I have always done my best to develop flawless web applications.
 
+
+<a href="https://git.io/streak-stats"><img height=200 align="center" src="https://streak-stats.demolab.com?user=SepehrHariri" alt="GitHub Streak" /></a>
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SepehrHariri&show=prs_merged,prs_merged_percentage&show_icons=true&hide=contribs,issues" />
 </a>
 
-<br />
-
-<a href="https://git.io/streak-stats"><img height=200 align="center" src="https://streak-stats.demolab.com?user=SepehrHariri" alt="GitHub Streak" /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrHariri&langs_count=20&layout=compact" />
