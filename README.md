@@ -1,6 +1,6 @@
 ### Hi there, I'm Sepehr 👋
 
-Software Engineer with more than 5 years of experience in front-end development, mostly React.js, TypeScript and Next.js. eager to learn and share. Skilled in Computer Science, Web Development, and Software Engineering. Passionate about leadership, teamwork, solving problems, business challenges, and coding. interested in JavaScript full-stack development.
+I am a software engineer with over 5 years of expertise, specializing in Typescript, React.js, and Node.js. Eager learner and sharer, proficient in Computer Science, Web Development, and Software Engineering. Passionate about leadership, teamwork, problem-solving, and coding, with a keen interest in JavaScript full-stack development. Enthusiastic about tackling business challenges and leveraging technology for innovation.
 
 
 <a href="https://git.io/streak-stats">
