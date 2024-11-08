@@ -2,7 +2,7 @@
 
 I am a software engineer with over 5 years of expertise, specializing in Typescript, React.js, and Node.js. Eager learner and sharer, proficient in Computer Science, Web Development, and Software Engineering. Passionate about leadership, teamwork, problem-solving, and coding, with a keen interest in JavaScript full-stack development. Enthusiastic about tackling business challenges and leveraging technology for innovation.
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=SepehrHariri)](https://git.io/streak-stats)
 <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SepehrHariri" alt="GitHub Streak" /></a>-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
