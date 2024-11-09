@@ -4,7 +4,7 @@ I am a software engineer with over 5 years of expertise, specializing in Typescr
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=SepehrHariri)](https://git.io/streak-stats)-->
 <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=SepehrHariri" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=SepehrHariri" alt="GitHub Streak" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
