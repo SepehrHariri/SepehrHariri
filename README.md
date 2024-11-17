@@ -13,7 +13,7 @@ I am a software engineer with over 5 years of expertise, specializing in Typescr
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrHariri&langs_count=20&hide=html&layout=compact&card_width=450" />
 </a>
-</br>
+<hr/>
 
 [![dev.to badge](https://img.shields.io/badge/-dadwic-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sepehr-hariri)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0123536dc12e1aa061?viewMode=1)
