@@ -16,12 +16,12 @@ I am a software engineer with over 5 years of expertise, specializing in Typescr
 
 <hr/>
 
-<div align="center">
+
 [![dev.to badge](https://img.shields.io/badge/-dadwic-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sepehr-hariri)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0123536dc12e1aa061?viewMode=1)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sepehrhariry@gmail.com)](mailto:sepehrhariry@gmail.com)
 ![githubbadge](https://img.shields.io/github/followers/SepehrHariri?style=social)
 <!--[![YouTube](https://img.shields.io/youtube/channel/views/????)](https://www.youtube.com/watch?v=????)-->
-</div>
+
 
 
