@@ -9,6 +9,7 @@ I am a software engineer with over 5 years of expertise, specializing in Typescr
 </a>
 
 &nbsp;
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrHariri&langs_count=20&hide=html&layout=compact&card_width=470" />
 </a>
