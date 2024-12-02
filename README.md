@@ -1,6 +1,6 @@
 ### Hi there, I'm Sepehr 👋
 
-I am a software engineer with over 5 years of expertise, specializing in Typescript and React.js. Eager learner and sharer, proficient in Computer Science, Web Development, and Software Engineering. Passionate about leadership, teamwork, problem-solving, and coding, with a keen interest in JavaScript full-stack development. Enthusiastic about tackling business challenges and leveraging technology for innovation.
+I am a software engineer with over 5 years of expertise. Eager learner and sharer, proficient in Computer Science, Web Development, and Software Engineering. Passionate about leadership, teamwork, problem-solving, and coding, with a keen interest in JavaScript full-stack development. Enthusiastic about tackling business challenges and leveraging technology for innovation.
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=SepehrHariri)](https://git.io/streak-stats)
 
