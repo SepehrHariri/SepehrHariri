@@ -1,6 +1,28 @@
-### Hi there, I'm Sepehr 👋
+# Hi there, I'm Sepehr 👋
 
-I am a software engineer with over 5 years of expertise. Eager learner and sharer, proficient in Computer Science, Web Development, and Software Engineering. Passionate about leadership, teamwork, problem-solving, and coding, with a keen interest in JavaScript full-stack development. Enthusiastic about tackling business challenges and leveraging technology for innovation.
+With 5+ years of hands-on experience in software development, I'm currently focused on building intelligent systems powered by AI and LLMs.
+  
+I design and implement intelligent solutions that turn abstract ideas into real-world applications. I have a strong interest in NLP, LLMs, and generative models.  
+
+I'm an eager learner and team player, with hands-on experience in full-stack development and a growing portfolio of AI-driven applications.
+
+## 🧠 Current Focus
+- Applying NLP and LLMs to real-world challenges
+- Contributing to open-source AI tools
+- Building smart, scalable applications with React & Node.js
+
+## ⚙️ Skills & Interests
+- **Languages:** Python, JavaScript (ES6+), SQL  
+- **Frameworks/Tools:** React, Node.js, PyTorch, TensorFlow, Scikit-learn  
+- **Domains:** NLP, Machine Learning, Deep Learning, AI Agents  
+- **Other:** Git, APIs, OpenAI, Hugging Face, Agile  
+
+---
+
+🎯 I'm currently seeking remote internship opportunities or entry-level roles in AI/ML, where I can contribute to real-world projects and grow alongside a passionate team.
+
+> 💡 Let’s connect — I’m open to remote internships and collaboration on exciting AI/ML projects.
+
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=SepehrHariri)](https://git.io/streak-stats)
 
