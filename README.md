@@ -19,9 +19,9 @@ I'm an eager learner and team player, with hands-on experience in full-stack dev
 
 ---
 
-🎯 I'm currently seeking remote internship opportunities or entry-level roles in AI/ML, where I can contribute to real-world projects and grow alongside a passionate team.
+🎯 I’m currently seeking remote or on-site opportunities in the field of AI and Machine Learning, where I can contribute to real-world projects and grow alongside a passionate team.
 
-> 💡 Let’s connect — I’m open to remote internships and collaboration on exciting AI/ML projects.
+💡 Let’s connect — I’m open to collaborating on exciting AI/ML projects, whether remotely or in person.
 
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=SepehrHariri)](https://git.io/streak-stats)
