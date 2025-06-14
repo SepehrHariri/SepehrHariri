@@ -9,11 +9,11 @@ I'm an eager learner and team player, with hands-on experience in full-stack dev
 ## 🧠 Current Focus
 - Applying NLP and LLMs to real-world challenges
 - Contributing to open-source AI tools
-- Building smart, scalable applications with React & Node.js
+- Building smart, scalable applications with Python & Node.js
 
 ## ⚙️ Skills & Interests
 - **Languages:** Python, JavaScript (ES6+), SQL  
-- **Frameworks/Tools:** React, Node.js, PyTorch, TensorFlow, Scikit-learn  
+- **Frameworks/Tools:** Node.js, PyTorch, TensorFlow, Scikit-learn, Keras  
 - **Domains:** NLP, Machine Learning, Deep Learning, AI Agents  
 - **Other:** Git, APIs, OpenAI, Hugging Face, Agile  
 
