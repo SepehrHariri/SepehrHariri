@@ -1,6 +1,6 @@
 # Hi there, I'm Sepehr 👋
 
-With 5+ years of hands-on experience in software development, I'm currently focused on building intelligent systems powered by AI and LLMs.
+With 5+ years of hands-on experience in software development, I'm currently focused on building intelligent systems powered by AI and Machine Learning.
   
 I design and implement intelligent solutions that turn abstract ideas into real-world applications. I have a strong interest in NLP, LLMs, and generative models.  
 
