@@ -1,13 +1,13 @@
 # Hi there, I'm Sepehr 👋
 
-With 5+ years of hands-on experience in software development, I'm currently focused on building intelligent systems powered by AI and Machine Learning.
-  
-I design and implement intelligent solutions that turn abstract ideas into real-world applications. I have a strong interest in NLP, LLMs, and generative models.  
+I am a software engineer with over 4 years of expertise, specializing in AI and Machine Learning. Eager learner and sharer, proficient in Computer Science, Web Development, and Software Engineering. Passionate about leadership, teamwork, problem-solving, and coding, with a keen interest in Python full-stack development. Enthusiastic about tackling business challenges and leveraging technology for innovation.
+
+I design and implement intelligent solutions that turn abstract ideas into real-world applications. I have a strong interest in DS, ML, DL, NLP, and generative models.  
 
 I'm an eager learner and team player, with hands-on experience in full-stack development and a growing portfolio of AI-driven applications.
 
 ## 🧠 Current Focus
-- Applying NLP and LLMs to real-world challenges
+- Applying DL, and NLP to real-world challenges
 - Contributing to open-source AI tools
 - Building smart, scalable applications with Python & Node.js
 
@@ -19,9 +19,8 @@ I'm an eager learner and team player, with hands-on experience in full-stack dev
 
 ---
 
-🎯 I’m currently seeking remote or on-site opportunities in the field of AI and Machine Learning, where I can contribute to real-world projects and grow alongside a passionate team.
 
-💡 Let’s connect — I’m open to collaborating on exciting AI/ML projects, whether remotely or in person. 🚀
+Let’s connect — I’m open to collaborating on exciting AI/ML projects. 
 
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=SepehrHariri)](https://git.io/streak-stats)
