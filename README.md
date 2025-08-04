@@ -44,4 +44,13 @@ Let’s connect — I’m open to collaborating on exciting AI/ML projects.
 <!--[![YouTube](https://img.shields.io/youtube/channel/views/????)](https://www.youtube.com/watch?v=????)-->
 
 <!--START_SECTION:waka-->
+
+```txt
+HTML             10 hrs 40 mins  ███████████████▓░░░░░░░░░   62.95 %
+Blade Template   5 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.97 %
+Python           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+PHP              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
