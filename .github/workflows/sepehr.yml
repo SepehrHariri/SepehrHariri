@@ -21,9 +21,9 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: -> # optional
-          CODE_LANG: rust # optional
+          CODE_LANG: python # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
+          LANG_COUNT: 20 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
@@ -37,4 +37,6 @@ jobs:
           COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: YOUR_NAME # optional
           AUTHOR_EMAIL: YOUR@EMAIL.com # optional
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
           
