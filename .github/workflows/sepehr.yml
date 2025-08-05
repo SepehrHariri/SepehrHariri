@@ -18,7 +18,7 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME # optional
           ### content
-          SHOW_TITLE: true # optional
+          SHOW_TITLE: false # optional
           SECTION_NAME: waka # optional
           BLOCKS: => # optional
           CODE_LANG: python # optional
@@ -47,4 +47,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           SYMBOL_VERSION: "2"
           SHOW_SHORT_INFO: "True"
-          SHOW_LANGUAGE_OF_YEAR: "True"
+          SHOW_LANGUAGE: "False"
