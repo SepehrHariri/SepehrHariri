@@ -28,7 +28,7 @@ jobs:
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          # IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
@@ -39,4 +39,10 @@ jobs:
           AUTHOR_EMAIL: YOUR@EMAIL.com # optional
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
-          
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_TIMEZONE: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SYMBOL_VERSION: "2"
+          SHOW_SHORT_INFO: "True"
