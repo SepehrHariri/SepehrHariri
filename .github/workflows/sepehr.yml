@@ -20,7 +20,7 @@ jobs:
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
+          BLOCKS: => # optional
           CODE_LANG: python # optional
           TIME_RANGE: all_time # optional
           SHOW_LINES_OF_CODE: "True"
@@ -45,6 +45,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "True"
           SHOW_TIMEZONE: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
-          SYMBOL_VERSION: "3"
+          SYMBOL_VERSION: "2"
           SHOW_SHORT_INFO: "True"
-          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_OF_YEAR: "True"
