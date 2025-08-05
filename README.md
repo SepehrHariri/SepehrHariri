@@ -104,7 +104,5 @@ Python                   3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ![Lines of Code chart](https://raw.githubusercontent.com/SepehrHariri/SepehrHariri/main/assets/bar_graph.png)
 
-<figure><embed src="https://wakatime.com/share/@4b335ae1-470c-4cf4-8d58-e319582ba04c/34c8c0f8-db6a-4b27-b540-2a7bce90bffd.svg"></embed></figure>
-
  Last Updated on 05/08/2025 08:18:30 UTC
 <!--END_SECTION:waka-->
