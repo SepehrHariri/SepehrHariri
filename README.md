@@ -47,7 +47,7 @@ Let’s connect — I’m open to collaborating on exciting AI/ML projects.
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-426.1%20thousand%20lines%20of%20code-blue)
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2029%20mins-blue)
-
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 **🐱 My GitHub Data** 
 
 > 📦 426.6 kB Used in GitHub's Storage 
