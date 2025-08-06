@@ -42,7 +42,7 @@ Let’s connect — I’m open to collaborating on exciting AI/ML projects.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sepehrhariry@gmail.com)](mailto:sepehrhariry@gmail.com)
 ![githubbadge](https://img.shields.io/github/followers/SepehrHariri?style=social)
 <!--[![YouTube](https://img.shields.io/youtube/channel/views/????)](https://www.youtube.com/watch?v=????)-->
-![](https://komarev.com/ghpvc/?username=SepehrHariri&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-426.1%20thousand%20lines%20of%20code-blue)
