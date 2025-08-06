@@ -36,8 +36,8 @@ Let’s connect — I’m open to collaborating on exciting AI/ML projects.
 </a>
 
 <hr/>
-<!-- [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn] -->
-[![Linkedin](https://i.sstatic.net/gVE0j.png)(https://img.shields.io/badge/-Linkedin-%230177B5?style=flat&logo=white)](https://www.linkedin.com/in/sepehr-hariri)
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png)(https://img.shields.io/badge/-Linkedin-%230177B5?style=flat&logo=white) LinkedIn](https://www.linkedin.com/in/sepehr-hariri)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white)]()
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sepehrhariry@gmail.com)](mailto:sepehrhariry@gmail.com)
 ![githubbadge](https://img.shields.io/github/followers/SepehrHariri?style=social)
