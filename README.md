@@ -43,7 +43,7 @@ Let’s connect — I’m open to collaborating on exciting projects.
 ![githubbadge](https://img.shields.io/github/followers/SepehrHariri?style=social)
 ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 <!--[![YouTube](https://img.shields.io/youtube/channel/views/????)](https://www.youtube.com/watch?v=????)-->
-<a href="https://komarev.com/ghpvc/?username=SepehrHariri&abbreviated=true" style="visibility: hidden;"></a>
+<a href="https://komarev.com/ghpvc/?username=SepehrHariri&abbreviated=true" style="">view</a>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2044%20mins-blue)
