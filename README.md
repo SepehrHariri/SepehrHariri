@@ -6,22 +6,22 @@ I design and implement intelligent solutions that turn abstract ideas into real-
 
 I'm an eager learner and team player, with hands-on experience in full-stack development and a growing portfolio of AI-driven applications.
 
-## 🧠 Current Focus
-- Applying DL, and NLP to real-world challenges
-- Contributing to open-source AI tools
-- Building smart, scalable applications with Python & Node.js
-
-## ⚙️ Skills & Interests
+## ⚙️ Technical Skills and Tools:
+- **Backend:** PHP, Nodejs Express (TypeScript, JavaScript), GraphQL
+- **Web Development:** Node.js, TypeScript, JavaScript, REST APIs
 - **Languages:** Python, JavaScript (ES6+), SQL  
-- **Frameworks/Tools:** Node.js, PyTorch, TensorFlow, Scikit-learn, Keras  
-- **Domains:** NLP, Machine Learning, Deep Learning, AI Agents  
+- **Frameworks/Tools:** Laravel, Node.js, PyTorch, TensorFlow, Scikit-learn, Keras
+- **Machine Learning & AI:** Supervised & Unsupervised Learning, NLP, Scikit-learn, TensorFlow, Keras
+- **Domains:** NLP, Machine Learning, Deep Learning, AI Agents
+- **Data Analysis & Visualization:** Matplotlib, and Seaborn
+- **Data Engineering:** SQL, data cleaning, and automation
 - **Other:** Git, APIs, OpenAI, Hugging Face, Agile  
 
 ---
 
+I value clean, maintainable code and working collaboratively with teams to deliver features that meet user needs. Whether modernizing legacy systems or creating new functionality, I focus on building solutions that are both effective and reliable.
 
-Let’s connect — I’m open to collaborating on exciting AI/ML projects. 
-
+Let’s connect — I’m open to collaborating on exciting projects.
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=SepehrHariri)](https://git.io/streak-stats)
 
