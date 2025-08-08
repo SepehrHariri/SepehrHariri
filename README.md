@@ -21,6 +21,8 @@ I'm an eager learner and team player, with hands-on experience in full-stack dev
 
 I value clean, maintainable code and working collaboratively with teams to deliver features that meet user needs. Whether modernizing legacy systems or creating new functionality, I focus on building solutions that are both effective and reliable.
 
+![Available for Hire](https://img.shields.io/badge/🔍%20Available%20for%20Hire-Yes-brightgreen)
+
 Let’s connect — I’m open to collaborating on exciting projects.
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=SepehrHariri)](https://git.io/streak-stats)
