@@ -40,10 +40,10 @@ Let’s connect — I’m open to collaborating on exciting projects.
 <hr/>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-%230177B5?style=flat&logo=white)](https://www.linkedin.com/in/sepehr-hariri)
-<!--[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white)]()-->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sepehrhariry@gmail.com)](mailto:sepehrhariry@gmail.com)
 ![githubbadge](https://img.shields.io/github/followers/SepehrHariri?style=social)
 ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+<!--[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white)]()-->
 <!--[![YouTube](https://img.shields.io/youtube/channel/views/????)](https://www.youtube.com/watch?v=????)-->
 <a href="https://komarev.com/ghpvc/?username=SepehrHariri&abbreviated=true" style="visibility: hidden;"></a>
 
