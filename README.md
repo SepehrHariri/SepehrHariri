@@ -48,7 +48,7 @@ Let’s connect — I’m open to collaborating on exciting projects.
 <a href="https://komarev.com/ghpvc/?username=SepehrHariri&abbreviated=true" style="visibility: hidden;"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-426.8%20thousand%20lines%20of%20code-blue)
 
@@ -87,7 +87,7 @@ Sunday                   66 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 🔥 Editors: 
-VS Code                  4 hrs 11 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  3 hrs 25 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -107,5 +107,5 @@ Python                   3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/SepehrHariri/SepehrHariri/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2025 18:52:14 UTC
+ Last Updated on 13/08/2025 18:50:38 UTC
 <!--END_SECTION:waka-->
