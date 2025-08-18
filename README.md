@@ -7,9 +7,8 @@ I design and implement intelligent solutions that turn abstract ideas into real-
 I'm an eager learner and team player, with hands-on experience in full-stack development and a growing portfolio of AI-driven applications.
 
 ## ⚙️ Technical Skills and Tools:
-- **Backend:** PHP, Nodejs Express (TypeScript, JavaScript), GraphQL
-- **Web Development:** Node.js, TypeScript, JavaScript, REST APIs
-- **Languages:** Python, JavaScript (ES6+), SQL  
+- **Backend:** Python, PHP (Laravel), Nodejs (TypeScript, JavaScript), GraphQL, REST APIs
+- **Languages:** Python, JavaScript (ES6+), PHP, SQL
 - **Frameworks/Tools:** Laravel, Node.js, PyTorch, TensorFlow, Scikit-learn, Keras
 - **Machine Learning & AI:** Supervised & Unsupervised Learning, NLP, Scikit-learn, TensorFlow, Keras
 - **Domains:** NLP, Machine Learning, Deep Learning, AI Agents
