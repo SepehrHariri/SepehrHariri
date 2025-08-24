@@ -33,7 +33,6 @@ jobs:
           STOP_AT_OTHER: true # optional
           # IGNORED_LANGUAGES: YAML JSON TOML # optional
           SHOW_UPDATED_DATE: true 
-          SHOW_LOC_CHART: false 
           SHOW_OS: false 
           SHOW_PROJECTS: false 
            
