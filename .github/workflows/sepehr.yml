@@ -29,9 +29,11 @@ jobs:
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
-          SHOW_DAYS_OF_WEEK: false 
+          SHOW_DAYS_OF_WEEK: true 
           STOP_AT_OTHER: true # optional
           # IGNORED_LANGUAGES: YAML JSON TOML # optional
+          SHOW_UPDATED_DATE: true 
+          SHOW_LOC_CHART: true 
           SHOW_OS: false 
           SHOW_PROJECTS: false 
            
