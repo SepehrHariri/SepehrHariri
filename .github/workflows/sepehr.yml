@@ -31,8 +31,17 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           SHOW_DAYS_OF_WEEK: false 
           STOP_AT_OTHER: true # optional
-          
           # IGNORED_LANGUAGES: YAML JSON TOML # optional
+          SHOW_OS: false 
+          SHOW_PROJECTS: false 
+           
+          SHOW_PROFILE_VIEWS: false 
+          SHOW_TIMEZONE: false 
+          SHOW_LANGUAGE_PER_REPO: true 
+          SYMBOL_VERSION: 2 
+          SHOW_SHORT_INFO: true 
+          SHOW_LANGUAGE: true # optional
+          
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
@@ -41,13 +50,3 @@ jobs:
           COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: YOUR_NAME # optional
           AUTHOR_EMAIL: YOUR@EMAIL.com # optional
-          SHOW_OS: false 
-          SHOW_PROJECTS: false 
-           
-          
-          SHOW_PROFILE_VIEWS: false 
-          SHOW_TIMEZONE: false 
-          SHOW_LANGUAGE_PER_REPO: true 
-          SYMBOL_VERSION: 4 
-          SHOW_SHORT_INFO: true 
-          SHOW_LANGUAGE: true # optional
