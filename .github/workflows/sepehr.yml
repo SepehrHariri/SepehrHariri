@@ -41,7 +41,8 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: true 
           SYMBOL_VERSION: 2 
           SHOW_SHORT_INFO: true 
-          SHOW_LANGUAGE: true # optional
+          SHOW_LANGUAGE: false # optional
+          SHOW_EDITORS: false 
           
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
