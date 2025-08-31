@@ -47,6 +47,8 @@ Let’s connect — I’m open to collaborating on exciting projects.
 <a href="https://komarev.com/ghpvc/?username=SepehrHariri&abbreviated=true" style="visibility: hidden;"></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2043%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-436.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -97,5 +99,5 @@ JavaScript               4 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/SepehrHariri/SepehrHariri/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 18:45:19 UTC
+ Last Updated on 31/08/2025 18:46:16 UTC
 <!--END_SECTION:waka-->
