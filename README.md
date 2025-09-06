@@ -55,8 +55,6 @@ Let’s connect — I’m open to collaborating on exciting projects.
 
 > 📦 426.9 kB Used in GitHub's Storage 
  > 
-> 🏆 153 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -101,5 +99,5 @@ JavaScript               4 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/SepehrHariri/SepehrHariri/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2025 18:46:31 UTC
+ Last Updated on 06/09/2025 18:43:20 UTC
 <!--END_SECTION:waka-->
