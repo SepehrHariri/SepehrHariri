@@ -26,9 +26,9 @@ Let’s connect — I’m open to collaborating on exciting projects.
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=SepehrHariri)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SepehrHariri&show=prs_merged,prs_merged_percentage&show_icons=true&hide=contribs,stars,issues&include_all_commits=true&card_width=345" />
-</a>
+</a> -->
 
 &nbsp;
 
