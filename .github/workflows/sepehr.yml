@@ -18,7 +18,7 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: SepehrHariri/SepehrHariri # optional
           ### content
-          SHOW_TOTAL_CODE_TIME: true 
+          SHOW_TOTAL_CODE_TIME: false 
           SHOW_LINES_OF_CODE: true 
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
