@@ -34,7 +34,7 @@ jobs:
           # IGNORED_LANGUAGES: YAML JSON TOML # optional
           SHOW_UPDATED_DATE: true 
           SHOW_OS: false 
-          SHOW_PROJECTS: false 
+          SHOW_PROJECTS: true 
            
           SHOW_PROFILE_VIEWS: false 
           SHOW_TIMEZONE: false 
@@ -42,7 +42,7 @@ jobs:
           SYMBOL_VERSION: 2 
           SHOW_SHORT_INFO: true 
           SHOW_LANGUAGE: false # optional
-          SHOW_EDITORS: false 
+          SHOW_EDITORS: true 
           
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
