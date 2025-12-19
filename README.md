@@ -1,6 +1,6 @@
 # Hi there, I'm Sepehr 👋
 
-I am a software engineer with over 4 years of expertise, specializing in AI and Machine Learning. Eager learner and sharer, proficient in Computer Science, Web Development, and Software Engineering. Passionate about leadership, teamwork, problem-solving, and coding, with a keen interest in Python full-stack development. Enthusiastic about tackling business challenges and leveraging technology for innovation.
+I am a software engineer with over 5 years of expertise, specializing in AI and Machine Learning. Eager learner and sharer, proficient in Computer Science, Web Development, and Software Engineering. Passionate about leadership, teamwork, problem-solving, and coding, with a keen interest in Python full-stack development. Enthusiastic about tackling business challenges and leveraging technology for innovation.
 
 I design and implement intelligent solutions that turn abstract ideas into real-world applications. I have a strong interest in DS, ML, DL, NLP, and generative models.  
 
