@@ -2,15 +2,15 @@
 
 I am a software engineer with over 5 years of expertise, specializing in Node.js and React.js. Eager learner and sharer, proficient in Computer Science, Web Development, and Software Engineering. Passionate about leadership, teamwork, problem-solving, and coding, with a keen interest in Python full-stack development. Enthusiastic about tackling business challenges and leveraging technology for innovation.
 
-I design and implement intelligent solutions that turn abstract ideas into real-world applications. I have a strong interest in DS, ML, DL, NLP, and generative models.  
+I design and implement intelligent solutions that turn abstract ideas into real-world applications. I have a strong interest in Machine Learning and AI.  
 
 I'm an eager learner and team player, with hands-on experience in full-stack development and a growing portfolio of AI-driven applications.
 
 ## ⚙️ Technical Skills and Tools:
-- **Backend:** Python, PHP (Laravel), Node.js, Express.js, (TypeScript, JavaScript), GraphQL, REST APIs
-- **Frontend:** React.js, Next.js, TailwindCSS, Bootstarp, CSS3, jQuery, HTML5
-- **Languages:** Python, JavaScript (ES6+), PHP, SQL
-- **Frameworks/Tools:** Laravel, Node.js, PyTorch, TensorFlow, Scikit-learn, Keras
+- **Backend:** Node.js, Express.js, TypeScript, JavaScript, Laravel, GraphQL, REST APIs
+- **Frontend:** React.js, Next.js, TailwindCSS, CSS3, Bootstarp, jQuery, HTML5
+- **Languages:** Python, JavaScript (ES6+), PHP
+- **Frameworks/Tools:** Laravel, Express.js, PyTorch, TensorFlow, Scikit-learn, Keras
 - **Machine Learning & AI:** Supervised & Unsupervised Learning, NLP, Scikit-learn, TensorFlow, Keras
 - **Domains:** NLP, Machine Learning, Deep Learning, AI Agents
 - **Data Analysis & Visualization:** Matplotlib, and Seaborn
