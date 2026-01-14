@@ -12,7 +12,6 @@ I'm an eager learner and team player, with hands-on experience in full-stack dev
 - **Languages:** Python, JavaScript (ES6+), PHP
 - **Frameworks/Tools:** Laravel, Express.js, PyTorch, TensorFlow, Scikit-learn, Keras
 - **Machine Learning & AI:** Supervised & Unsupervised Learning, NLP, Scikit-learn, TensorFlow, Keras
-- **Domains:** NLP, Machine Learning, Deep Learning, AI Agents
 - **Data Analysis & Visualization:** Matplotlib, and Seaborn
 - **Data Engineering:** SQL, data cleaning, and automation
 - **Other:** Git, APIs, OpenAI, Hugging Face, Agile  
