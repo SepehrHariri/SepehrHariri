@@ -7,14 +7,14 @@ I design and implement intelligent solutions that turn abstract ideas into real-
 I'm an eager learner and team player, with hands-on experience in full-stack development and a growing portfolio of AI-driven applications.
 
 ## ⚙️ Technical Skills and Tools:
-- **Backend:** Node.js, Express.js, TypeScript, JavaScript, Laravel, GraphQL, and REST APIs
+- **Backend:** Node.js, Express.js, TypeScript, JavaScript, Laravel, GraphQL, and APIs
 - **Frontend:** React.js, Next.js, TailwindCSS, CSS3, Bootstarp, jQuery, and HTML5
 - **Languages:** Python, JavaScript (ES6+), and PHP
 - **Frameworks/Tools:** Laravel, Express.js, PyTorch, TensorFlow, Scikit-learn, and Keras
 - **Machine Learning & AI:** Supervised & Unsupervised Learning, NLP, Scikit-learn, TensorFlow, and Keras
 - **Data Analysis & Visualization:** Matplotlib, and Seaborn
 - **Data Engineering:** SQL, data cleaning, and automation
-- **Other:** Git, APIs, OpenAI, Hugging Face, and Agile  
+- **Other:** Git, OpenAI, Hugging Face, and Agile  
 
 ---
 
