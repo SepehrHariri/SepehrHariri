@@ -9,7 +9,7 @@ I'm an eager learner and team player, with hands-on experience in full-stack dev
 ## ⚙️ Technical Skills and Tools:
 - **Backend:** Node.js, Express.js, TypeScript, JavaScript, Laravel, GraphQL, and APIs
 - **Frontend:** React.js, Next.js, TailwindCSS, CSS3, Bootstarp, jQuery, and HTML5
-- **Languages:** Python, JavaScript (ES6+), and PHP
+- **Languages:** Python, JavaScript, and PHP
 - **Frameworks/Tools:** Laravel, Express.js, PyTorch, TensorFlow, Scikit-learn, and Keras
 - **Machine Learning & AI:** Supervised & Unsupervised Learning, NLP, Scikit-learn, TensorFlow, and Keras
 - **Data Analysis & Visualization:** Matplotlib, and Seaborn
