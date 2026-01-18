@@ -34,9 +34,9 @@ Let’s connect — I’m open to collaborating on exciting projects.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SepehrHariri&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrHariri&langs_count=20&hide=html&layout=compact&card_width=470" />
-</a>
+</a> -->
 
 <hr/>
 
