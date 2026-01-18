@@ -30,7 +30,7 @@ Let’s connect — I’m open to collaborating on exciting projects.
   <img align="center" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SepehrHariri&show=prs_merged,prs_merged_percentage&show_icons=true&hide=contribs,stars,issues&include_all_commits=true&card_width=345" />
 </a> -->
 
-&nbsp;
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SepehrHariri&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
