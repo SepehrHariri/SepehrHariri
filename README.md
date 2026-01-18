@@ -32,7 +32,7 @@ Let’s connect — I’m open to collaborating on exciting projects.
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SepehrHariri)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SepehrHariri)]
 
 <!--
 &nbsp;
