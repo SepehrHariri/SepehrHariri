@@ -32,9 +32,6 @@ Let’s connect — I’m open to collaborating on exciting projects.
 
 <!--
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SepehrHariri)](https://github.com/SepehrHariri/github-readme-stats)
-
-
 &nbsp;
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
